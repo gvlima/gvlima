@@ -1,8 +1,7 @@
 ### Hello there! 👋
 
-I'm a software engineer passionate about building projects that will have a positive impact on people's lives and I really enjoy algorithms and data structures.
-
-I'm currently learning Go and Python.
+I'm a software engineer passionate about algorithms and data structures, and I currently learning Go and Python.
+I really enjoy building projects that will make people's lives better.
 
 to reach me: gustavo.volima@gmail.com
 
