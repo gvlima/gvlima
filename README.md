@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm a software engineer working with backend and Java development, passionate about algorithms and data structures and I really enjoy building projects that will make people's lives better.
+I'm a software engineer working with Java development, passionate about algorithms and data structures and I really enjoy building projects that will make people's lives better.
 
 
 I currently learning Go and Python.
