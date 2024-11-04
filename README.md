@@ -7,7 +7,7 @@ I'm a software engineer working with Java development, passionate about algorith
 - Working on: Building Java backend applications
 - Goals: Contributing to open source projects
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/wilderpereira)](https://www.linkedin.com/in/gvlima/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/wilderpereira&target="_blank)](https://www.linkedin.com/in/gvlima/)
 ![](https://komarev.com/ghpvc/?username=gvlima)
 
 <div>
