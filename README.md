@@ -1,10 +1,11 @@
 ## Hello there! 👋
 
-I'm a software engineer working with Java development, passionate about algorithms and data structures and I really enjoy building projects that will make people's lives better.
+I'm a software engineer with 10+ years of experience in the IT industry and 5+ years in building backend solutions. Passionate about algorithms and data structures and enthusiastic about building projects that will make people's lives better.
+
 
 ### About Me
 - Currently learning: JVM Architecture, Python and Go
-- Working on: Building Java backend applications
+- Working on: Building Java backend applications and data mesh solutions
 - Goals: Contributing to open source projects
 
 
