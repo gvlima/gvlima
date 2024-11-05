@@ -6,6 +6,6 @@ I'm a software engineer with 10+ years of experience in the IT industry. Passion
 - Working on: Building Java backend applications and data mesh solutions
 - Goals: Contributing to open source projects
 
-<hr>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvlima)](https://github.com/gvlima/github-readme-stats)
